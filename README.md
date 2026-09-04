@@ -2,8 +2,12 @@
 
 Talon is a single motor ducted drone that uses thrust vectoring for flight control.
 
-<img src="images/Isometric.png" alt="Isometric View" width="450" />
-<img src="images/Top.png" alt="Top View" width="450" />
+<table>
+<tr>
+<td><img src="images/Isometric.png" alt="Isometric View" width="400" /></td>
+<td><img src="images/Top.png" alt="Top View" width="400" /></td>
+</tr>
+</table>
 
 ## CAD and Hardware Layout
 
