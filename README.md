@@ -53,19 +53,19 @@ Linkages between the servos and control vanes need to be stiff to avoid flutter 
 
 ## Bill of Materials
 
-Placeholder pricing, swap in real numbers and links once you've sourced everything.
-
 | Part | Qty | Cost (est.) | Link |
 |---|---|---|---|
-| Motor (2810 1350KV) | 1 | $18 | link |
-| 8" propeller | 1-2 | $4 | link |
-| Micro servo (control vanes) | 4 | $2.50 each ($10 total) | link |
-| ESC (40A) | 1 | $12 | link |
-| Flight controller | 1 | $25 | link |
-| 4S LiPo battery | 1 | $20 | link |
-| M2 / M3 screws | assorted | $3 | link |
-| PETG/PLA filament | ~80g | $2 | link |
-| **Total** | | **~$94.50** | |
+| Motor (2810 1350KV) | 1 | $5.33 | link |
+| 8" propeller | 4 | $3.4 | link |
+| Micro servo (control vanes) | 4 | $0.5 each ($2 total) | link |
+| ESC (40A) | 1 | $5.33 | link |
+| Flight controller | 1 | $4-10 | link |
+| Camera | 1 | $6.70 | link |
+| Radio | 1 | $5.30 | link |
+| 4S LiPo battery | 1 | $13.4 | link |
+| M2 / M3 screws | assorted | $2 | link |
+| PETG/PLA filament | ~300g | $3-4 | link |
+| **Total** | | **~$50-57** | |
 
 ## Repo Structure
 
