@@ -4,19 +4,19 @@ Talon is a single motor ducted drone that uses thrust vectoring for flight contr
 
 ### CAD and Hardware Layout
 
-![Isometric View](images\Isometric.png)
+![Isometric View](images/Isometric.png)
 
 The isometric view shows how the main parts package together. The motor and three blade propeller sit on the center top plate. Four micro servos sit around that middle ring, each hooked directly to one of the rectangular control vanes below. The duct wraps around the prop, with a raised lip on the cowl to help guide airflow into the blades.
 
-![Top View](images\Top.png)
+![Top View](images/Top.png)
 
 Looking down into the duct shows the propeller sitting over eight curved stator vanes. Those stators connect the center motor mount to the outer ring. Their curve is shaped to catch the spinning air coming off the prop and straighten it out to cancel motor torque. Underneath the stators, the four control vanes sit at ninety degree intervals.
 
-![Side View](images\Front.png)
+![Side View](images/Front.png)
 
 The side view shows the vertical layout. The white cylinder at the bottom houses the 4S battery, keeping the heaviest part of the build down low and centered directly under the thrust line. On the cowl, there are cutouts for the USB port and status LED so you can plug into the flight controller without taking the duct apart.
 
-![Bottom View](images\Bottom.png)
+![Bottom View](images/Bottom.png)
 
 The bottom view shows the exhaust path. The four control vanes sit directly in the fastest air stream coming out of the duct. Each vane pivots on its own axis to deflect air for pitch, roll, and yaw. You can also see the wire routing holes and mounting points for the internal electronics plate.
 
